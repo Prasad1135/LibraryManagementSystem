@@ -1,0 +1,28 @@
+<?php include('header.php'); ?>
+<?php include('navbar.php'); ?>
+    <div class="container">
+		<div class="margin-top">
+			<div class="row">
+					<?php include('head.php'); ?>
+					
+					</div>Arihant College of Arts, Commerce and Science, Camp, Pune- 01, is an interdisciplinary library that is not stuck on only one subject but revolves around every latest information. The KRC/library is a key to the world of knowledge and acquisition of knowledge. It helps to enlighten the personality of an individual at the vital, spiritual and mental levels and will inculcate social virtues and foster intellectual development to make an individual a worthy citizen..
+					</br></br></br>
+				
+			
+				<div class="span2">
+				<h4></h4>
+			
+				</div>
+				<div class="span10">
+				
+				
+					
+					
+				
+				
+				</div>
+			
+			</div>
+		</div>
+    </div>
+<?php include('footer.php') ?>
